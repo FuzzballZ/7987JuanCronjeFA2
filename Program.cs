@@ -9,6 +9,7 @@ namespace _7987JuanCronjeFA2
             Console.WriteLine("Hello World!");
             Console.WriteLine("Juan Cronje is here");
             Console.WriteLine("He is listening some supercalifragilisticexpialidocious music");
+            Console.WriteLine("Welcome to the new team members");
         }
     }
 }
